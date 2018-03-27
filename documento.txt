@@ -2,7 +2,7 @@ primeira linha de texto.
 
 Penso logo existo.
 Não sei o que dizer.
-Os alunos estão aguardando o commit.
+Os ALUNO estão aguardando o commit.
 
 Não sei se existo mesmo.
 O fato é que escrevo.
